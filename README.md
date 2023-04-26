@@ -4,8 +4,6 @@
 <img align = 'right' alt='matrix' src ='https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=londonreturns&label=Profile%20views&color=0e75b6&style=flat" alt="londonreturns" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=londonreturns" alt="londonreturns" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/subedioscar" target="blank"><img src="https://img.shields.io/twitter/follow/subedioscar?logo=twitter&style=for-the-badge" alt="subedioscar" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Node.js**
