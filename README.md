@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm londonreturns</h1>
-<h3 align="center">passionate coder</h3>
 
 <img align = 'right' alt='matrix' src ='https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=londonreturns&label=Profile%20views&color=0e75b6&style=flat" alt="londonreturns" /> </p>
