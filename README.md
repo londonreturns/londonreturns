@@ -31,4 +31,8 @@
 <h3 align="left">📊 GitHub Stats</h3>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=londonreturns&show_icons=true&locale=en" alt="londonreturns" /></p>
 
+---
+
+### 🐍 Contribution Snake Animation
+
 ![Snake animation](https://github.com/londonreturns/londonreturns/blob/output/github-contribution-grid-snake.svg)
