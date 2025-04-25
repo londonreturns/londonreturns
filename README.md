@@ -35,4 +35,4 @@
 
 ### 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/londonreturns/londonreturns/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/londonreturns/londonreturns/output/github-contribution-grid-snake.svg)
